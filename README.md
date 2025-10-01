@@ -1,7 +1,6 @@
-📚 API REST com Express
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-Express-green?logo=node.js" alt="Node / Express" /> <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" /> </p> <h1 align="center">API REST com Express & MongoDB</h1>
 
 Este projeto é uma API REST simples desenvolvida com o framework Express e um banco de dados não relacional (NoSQL).
-
 A aplicação expõe duas rotas principais:
 
 /livros

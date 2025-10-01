@@ -9,8 +9,11 @@ A aplicação expõe duas rotas principais:
 Cada rota implementa as operações básicas de um CRUD:
 
 GET – Listar dados
+
 POST – Criar novos registros
+
 PUT – Atualizar registros existentes
+
 DELETE – Remover registros
 
 A API está configurada para rodar localmente em:

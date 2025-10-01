@@ -4,6 +4,7 @@ Este projeto é uma API REST simples desenvolvida com o framework Express e um b
 A aplicação expõe duas rotas principais:
 
 /livros
+
 /autores
 
 Cada rota implementa as operações básicas de um CRUD:
@@ -22,5 +23,6 @@ http://localhost:3000
 
 📄 Documentação
 Para mais informações sobre o framework utilizado, acesse a documentação oficial do Express
+
 https://expressjs.com/ 
 .
